@@ -1,0 +1,10 @@
+.section-title.svelte-ccxcjn {
+  margin-bottom: 6rem;
+}
+
+@media (min-width: 768px) {
+  .section-title.svelte-ccxcjn {
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+  }
+}

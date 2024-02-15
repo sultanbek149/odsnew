@@ -1,0 +1,17 @@
+.timer.svelte-14blv8z {
+    color: #fff;
+    line-height: 1
+}
+
+.footer-logo-always.svelte-mksfai {
+    height: 16rem
+}
+
+@media (min-width: 768px) {
+    .footer-logo-always.svelte-mksfai {
+        position:fixed;
+        bottom: 2.25rem;
+        left: 3rem;
+        height: 2.6vw
+    }
+}

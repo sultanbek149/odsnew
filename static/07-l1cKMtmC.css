@@ -1,0 +1,26 @@
+.section-title.svelte-rdnc1j {
+  margin-bottom: 6rem;
+  font-size: 15.2rem;
+}
+
+@media (min-width: 1024px) {
+  .section-title.svelte-rdnc1j {
+    margin-bottom: 0;
+    line-height: 1;
+    font-size: 6.3rem;
+  }
+}
+
+.section-content.svelte-rdnc1j {
+  max-width: 100%;
+  font-size: 4rem;
+  line-height: 1.7;
+}
+
+@media (min-width: 1024px) {
+  .section-content.svelte-rdnc1j {
+    margin-top: 4rem;
+    font-size: 1.9rem;
+    line-height: 1.25;
+  }
+}

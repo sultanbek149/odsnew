@@ -1,0 +1,54 @@
+video.svelte-vyugrs {
+    z-index: 21;
+    --tw-scale-x: 1.6;
+    --tw-scale-y: 1.6;
+    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+@media (min-width: 1024px) {
+    video.svelte-vyugrs {
+        --tw-translate-x:2.5rem;
+        --tw-scale-x: 1.4;
+        --tw-scale-y: 1.4;
+        transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+    }
+}
+
+.section-title.numbers.svelte-vyugrs {
+    margin-bottom: 5rem;
+    max-width: 100%;
+    font-size: 35rem
+}
+
+@media (min-width: 1024px) {
+    .section-title.numbers.svelte-vyugrs {
+        margin-bottom:1rem;
+        font-size: 16rem
+    }
+}
+
+.section-title.text.svelte-vyugrs {
+    margin-bottom: 10rem;
+    max-width: 100%;
+    font-size: 17rem
+}
+
+@media (min-width: 1024px) {
+    .section-title.text.svelte-vyugrs {
+        margin-bottom:7rem;
+        font-size: 6rem
+    }
+}
+
+.section-content.svelte-vyugrs {
+    max-width: 100%
+}
+
+@media (min-width: 1024px) {
+    .section-content.svelte-vyugrs {
+        max-width:98%;
+        font-size: 2rem;
+        line-height: 2.5rem
+    }
+}
+
